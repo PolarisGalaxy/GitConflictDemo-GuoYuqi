@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitConflictDemo-GuoYuqi</string>
+    <string name="title_text">Git Merge Conflict Demo</string>
+    <string name="first_button">Confirm</string>
+    <string name="second_button">Cancel</string>
+</resources>
